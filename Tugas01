@@ -1,0 +1,20 @@
+print("               Toko Mainan Anak               ")
+print("**********************************************")
+
+# Mengambil input daripada pengguna
+nama = input("Masukan Nama Pembeli : ")
+kode = input("Masukan Kode Mainan  : ")
+harga = int(input("Masukan Harga        : "))
+jumlah = int(input("Masukan Jumlah Beli  : "))
+
+# Menghitung total pembayaran
+total = harga * jumlah
+
+print("==============================================")
+
+# Menampilkan hasil cetakan
+print("Nama Pembeli : " + str(nama))
+print("Kode Mainan  : " + str(kode))
+print("Harga        : " + str(harga))
+print("Jumlah Beli  : " + str(jumlah))
+print("Total        : " + str(total))

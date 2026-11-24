@@ -1,0 +1,7 @@
+kata = 'kuliah'
+kalimat = "BSI Aja!"
+paragraph = """kuliah.. ? BSI Aja..!"""
+
+print(kata)
+print(kalimat)
+print(paragraph)

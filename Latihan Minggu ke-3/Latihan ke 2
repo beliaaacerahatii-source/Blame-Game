@@ -1,0 +1,4 @@
+print("phi=3.14")
+jari_jari=input("jari_jari:")
+keliling=2*3,14*jari_jari
+print("keliling lingkaran= ", kell)

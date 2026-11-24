@@ -1,0 +1,4 @@
+#Start
+gross = int(input("Masukan gross: "))
+buah = gross * 144
+print("Cetak buah =", buah)
